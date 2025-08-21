@@ -1,4 +1,4 @@
-# Eye Disease Detection using CNN
+# Eye Disease Classifier using CNN
 
 Early detection of eye disorders is crucial to prevent vision loss and enable timely treatment. Diseases like **Diabetic Retinopathy**, **Glaucoma**, and **Cataracts** often show little to no symptoms in their early stages, making automated screening an important tool.  
 This project uses **Deep Learning (CNN)** to classify retinal images into four categories: *Normal, Cataract, Diabetic Retinopathy, and Glaucoma*.
